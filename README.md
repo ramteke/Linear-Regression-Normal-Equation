@@ -1,6 +1,6 @@
 # Linear Regression With Multiple Variable : Normal Equation
 
-Note: This is easy way to compute linear regression when number of features are less.
+Note: This is easy way to compute and can be used when number of features are less.
 
 
 You are selling your house and you want to know what a good market price would be.
